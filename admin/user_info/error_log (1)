@@ -1,0 +1,1 @@
+[22-Aug-2019 14:11:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/cashless/public_html/admin/user_info/user_balance.php on line 31

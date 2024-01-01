@@ -1,0 +1,38 @@
+<?php
+
+require ('connection.php');
+
+$UID =  $_GET['UID'];
+$Price = $_GET['Price'];
+
+$Price1 = (int)$Price;
+echo $UID;
+echo "<br>";
+echo $Price1;
+echo "<br>";
+$query = mysql_query("SELECT * FROM usersbalance WHERE student_id = '$UID'");
+
+while($row = mysqli_fetch_assoc($query)){
+    $bal = $row['balance'];
+	echo "validated" ;
+	if ($bal>=$Price1) 
+	{
+		$sum=$bal-$Price1;
+		echo "Current balance = " .$sum.".";
+	}
+	else echo "Not enough balance.";
+}
+/*	$student_id = $row["student_id"];
+    if($UID == $student_id){
+		echo "validated";
+		$balance = mysql_query("SELECT balance FROM usersbalance WHERE student_id = '$UID'");
+	if ($conn->query($balance) === TRUE) {
+    echo "New record created successfully";
+*/ else {
+    echo "UID does not match";
+}
+	
+	
+	
+
+?>

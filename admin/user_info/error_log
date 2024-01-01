@@ -1,0 +1,57 @@
+[16-Aug-2019 08:58:58 UTC] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/cashless/public_html/admin/selectall.php on line 2
+[16-Aug-2019 08:58:58 UTC] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cashless/public_html/admin/selectall.php on line 2
+[16-Aug-2019 08:59:02 UTC] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/cashless/public_html/admin/selectdata.php on line 2
+[16-Aug-2019 08:59:02 UTC] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cashless/public_html/admin/selectdata.php on line 2
+[18-Aug-2019 07:57:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/cashless/public_html/admin/vendordata.php on line 17
+[18-Aug-2019 07:58:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/cashless/public_html/admin/vendordata.php on line 19
+[18-Aug-2019 07:58:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/cashless/public_html/admin/vendordata.php on line 19
+[18-Aug-2019 07:59:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/cashless/public_html/admin/vendordata.php on line 30
+[18-Aug-2019 07:59:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/cashless/public_html/admin/vendordata.php on line 30
+[18-Aug-2019 08:00:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/cashless/public_html/admin/vendordata.php on line 30
+[18-Aug-2019 08:28:24 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/cashless/public_html/admin/vendordata.php on line 52
+[18-Aug-2019 08:28:30 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/cashless/public_html/admin/vendordata.php on line 52
+[18-Aug-2019 08:28:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cashless/public_html/admin/vendordata.php on line 29
+[18-Aug-2019 08:28:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cashless/public_html/admin/vendordata.php on line 31
+[18-Aug-2019 08:29:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cashless/public_html/admin/vendordata.php on line 29
+[18-Aug-2019 08:29:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cashless/public_html/admin/vendordata.php on line 31
+[18-Aug-2019 08:43:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cashless/public_html/admin/vendordata.php on line 29
+[18-Aug-2019 08:43:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cashless/public_html/admin/vendordata.php on line 32
+[18-Aug-2019 08:43:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cashless/public_html/admin/vendordata.php on line 29
+[18-Aug-2019 08:43:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cashless/public_html/admin/vendordata.php on line 32
+[18-Aug-2019 08:46:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/cashless/public_html/admin/vendordata.php on line 29
+[18-Aug-2019 08:46:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cashless/public_html/admin/vendordata.php on line 32
+[18-Aug-2019 08:46:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/cashless/public_html/admin/vendordata.php on line 29
+[18-Aug-2019 08:46:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cashless/public_html/admin/vendordata.php on line 32
+[18-Aug-2019 08:46:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/cashless/public_html/admin/vendordata.php on line 29
+[18-Aug-2019 08:46:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cashless/public_html/admin/vendordata.php on line 32
+[18-Aug-2019 08:49:06 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/cashless/public_html/admin/vendordata.php on line 31
+[18-Aug-2019 08:50:54 UTC] PHP Warning:  mysqli_query(): Empty query in /home/cashless/public_html/admin/vendordata.php on line 34
+[18-Aug-2019 08:50:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/cashless/public_html/admin/vendordata.php on line 37
+[18-Aug-2019 08:51:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/cashless/public_html/admin/vendordata.php on line 36
+[18-Aug-2019 08:51:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/cashless/public_html/admin/vendordata.php on line 39
+[18-Aug-2019 08:52:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 42
+[18-Aug-2019 08:52:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 42
+[18-Aug-2019 08:52:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
+[18-Aug-2019 08:52:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cashless/public_html/admin/vendordata.php on line 48
